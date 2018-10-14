@@ -1,0 +1,19 @@
+{
+  "name": "expediente-forms",
+  "version": "1.0.0",
+  "description": "Forms para el expediente clinico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/carlosmoran97/expediente-forms.git"
+  },
+  "author": "Carlos Morán",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/carlosmoran97/expediente-forms/issues"
+  },
+  "homepage": "https://github.com/carlosmoran97/expediente-forms#readme"
+}
